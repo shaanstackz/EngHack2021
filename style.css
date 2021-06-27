@@ -1,0 +1,115 @@
+.title h1{
+    color:#ffffff;
+    background-color:#dfb015;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+    font-weight:800;
+    letter-spacing:0.2em;
+    border:5px #ffffff solid;
+    border-style:dotted;
+    border-bottom: none;
+    border-bottom-style:none;
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:10px;
+    margin:0px;
+    text-align:center;
+}
+.tagline {
+    color:#ffffff;
+    background-color:#df8815;
+    text-align:center;
+    padding: 1px;
+    font-size: 10px;
+}
+#headers {
+    list-style:none;
+    font-size: 25px;
+    background-color:#dfa915;
+    width:200px;
+}
+#headers a {
+    text-decoration:none;
+    color:#634d04;
+}
+.pic1 {
+    display: inline;
+    padding: 10px;
+}
+.audioLink {
+    float:right;
+}
+.calLink {
+    float:right;
+}
+.connect {
+    float:right;
+    background-color:black;
+    color:white;
+    padding:10px;
+    display:block;
+    cursor:pointer;
+}
+.connect:hover {
+    background-color:rgb(184, 114, 10);
+    color:white;
+    padding:10px;
+}
+#messages {
+    font-size:15px;
+    font-family: Papyrus;
+    font-weight: 1000;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+footer {
+    background:rgb(228, 138, 3);
+    color:#fff;
+    text-align:center;
+}
+.questions {
+    padding:20px;
+    border:5px #d8a704 solid;
+    background-color:#E8E8E8;
+}
+.questions .group {
+    padding-bottom:15px;
+    font-weight:800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.questions label {
+    display:block;
+}
+.questions textarea {
+    padding:8px;
+    width:80%;
+}
+.button {
+    background-color:black;
+    color:white;
+    padding:10px;
+    display:block;
+    cursor:pointer;
+}
+.button:hover {
+    background-color:rgb(184, 114, 10);
+    color:white;
+    padding:10px;
+}
+.group {
+    padding-left:35px;
+}
+.info #head {
+    color:rgba(102, 57, 6, 0.849);
+    letter-spacing:0.2em;
+}
+.info {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#cc7606;
+    border-style:dotted; 
+}
+.text {
+    color:rgba(102, 57, 6, 0.849);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
